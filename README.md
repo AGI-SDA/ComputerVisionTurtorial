@@ -1,4 +1,4 @@
-# Deep Learning Repetition - CNN
+# Computer Vision Tutorial
 ## Setup
 It is recommended to use Visual Studio Code or PyCharm to work with for this tutorial. 
 Prerequisites:
