@@ -1,4 +1,13 @@
 # Computer Vision Tutorial
+This tutorial is designed to provide a hands-on introduction to the machine learning workflow using PyTorch. The focus is on building a simple Neural Network (NN) for image classification on the MNIST dataset, which consists of handwritten digits.
+
+## MINIST Dataset Sample
+![Image](./images/MNIST_Dataset_Samples.png)
+
+## ML Workflow
+![Image](./images/ml-workflow.svg)
+
+
 ## Setup
 It is recommended to use Visual Studio Code or PyCharm to work with for this tutorial. 
 Prerequisites:
